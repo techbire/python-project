@@ -15,6 +15,7 @@
 -Open-source contributions are where I channel my dedication and keep expanding my skill set.
 
 ## Projects
+# note: All of these projects are hosted on my Replit account, which can be accessed at https://replit.com/@techbire. I invite you to explore more of my Python code by visiting this platform.
 
 ### 1. BMI Calculator
 - **Description:** A BMI calculator that calculates Body Mass Index based on user inputs (weight and height).
