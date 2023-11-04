@@ -55,3 +55,7 @@
 ### 10. Treasure Mapping
 - **Description:** A fun project that generates a 'treasure map' for a treasure hunt.
 - **Topics:** Lists, randomization."
+
+### 11. Who's Paying
+- **Description:** A tool for randomly selecting who will pay the bill in a group meal.
+- **Topics:** Randomization, conditional statements.
