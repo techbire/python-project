@@ -60,3 +60,8 @@
 ### 11. Who's Paying
 - **Description:** A tool for randomly selecting who will pay the bill in a group meal.
 - **Topics:** Randomization, conditional statements.
+
+
+### Hangman Game
+- **Description:** A classic word-guessing game where the player attempts to guess a hidden word letter by letter. The player has a limited number of incorrect guesses before the game ends.
+- **Topics:** String manipulation, random word selection, user input, conditionals, loops.
