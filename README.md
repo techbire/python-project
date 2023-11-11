@@ -62,6 +62,6 @@
 - **Topics:** Randomization, conditional statements.
 
 
-### Hangman Game
+### 12. Hangman Game
 - **Description:** A classic word-guessing game where the player attempts to guess a hidden word letter by letter. The player has a limited number of incorrect guesses before the game ends.
 - **Topics:** String manipulation, random word selection, user input, conditionals, loops.
