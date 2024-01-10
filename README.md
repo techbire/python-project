@@ -1,19 +1,3 @@
-## About Me
-
-"Hello, I'm Ansh Gupta, a dedicated Python developer on a journey to learn and create meaningful projects. My coding adventure has been shaped by the guidance and mentorship of experienced professionals in the field of programming.
-
-## Mentors and Inspirations
-
-- **Angela Yu:** Angela Yu's comprehensive Python courses and tutorials have been instrumental in my learning journey. Her clear explanations and hands-on projects have enabled me to grasp essential Python concepts and apply them to real-world applications.
-
-- **Haris Ali Khan (aka Code with Harry):** Haris Ali Khan's programming tutorials and insights have provided me with valuable knowledge and inspired me to take on challenging projects. His practical approach to coding has been a significant influence on my work.
-
-## My Coding Philosophy
-
--I prioritize writing honest and efficient code in all my projects, fostering a commitment to craftsmanship.
--My passion for continuous learning fuels my enthusiasm for exploring Python libraries and technologies.
--Open-source contributions are where I channel my dedication and keep expanding my skill set.
-
 ## Projects
 "Please note that all my projects are hosted on my Replit account at https://replit.com/@techbire, where you can explore a broader collection of Python code. I encourage you to visit and explore the repository for additional Python projects."
 
